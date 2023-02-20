@@ -20,4 +20,4 @@ To use the Api we can use the following command to pass a json.
 
 ```curl -H "Content-Type: application/json" -X POST -d '{"key":datos.json}' localhost:8001/predict```
 
-One json file for this case is [example.json](https://github.com/Franmc027/AI-ApiRest-LeadsPredictions/blob/main/example.json).
+One JSON file for this case is [example.json](https://github.com/Franmc027/AI-ApiRest-LeadsPredictions/blob/main/example.json).
